@@ -7,7 +7,7 @@ $(document).ready(function () {
     var post = "/transparent=true/' seamless><a href='http://nekropsi.bandcamp.com/album/aylik-monthly/'>AYLIK / MONTHLY by Nekropsi</a></iframe>";
     var map = {
         "1": "Ocak/January",
-        "2": "<a href=\"4-4/index.html\">Şubat/February</a>",
+        "2": "<a href=\"4-4/\">Şubat/February</a>",
         "3": "Mart/March",
         "4": "Nisan/April",
         "5": "Mayıs/May",
